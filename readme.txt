@@ -24,17 +24,29 @@ You can customize this section to include additional cleanup tasks!
 How to Run the Script as Administrator:
 
 ・Open Notepad:
+
 ・Press Win + R, type notepad, and hit Enter.
+
 ・Copy and Paste the Script:
+
 ・Copy the entire script provided above.
+
 ・Paste it into Notepad.
+
 ・Save the File:
+
 ・Click on File > Save As.
+
 ・Choose a location to save the file (e.g., Desktop).
+
 ・Name the file with a .bat extension (e.g., cleanup_script.bat).
+
 ・Run as Administrator:
+
 ・Right-click the saved .bat file.
+
 ・Select Run as administrator.
+
 ・Confirm any UAC prompts.
 
 Review Output:
