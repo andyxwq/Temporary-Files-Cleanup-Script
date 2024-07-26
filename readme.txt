@@ -1,5 +1,4 @@
-Temporary Files Cleanup Script
-This script is designed to perform cleanup tasks related to temporary files, cache, and system logs on a Windows machine. It helps free up disk space and maintain system performance. Here’s what the script does:
+Here’s what the script does:
 
 Delete Temporary Files:
 Clears temporary files from the %TEMP% folder.
@@ -19,6 +18,7 @@ Helps manage disk space.
 Custom Temp Folder Cleanup (Optional):
 Deletes files from the custom temp folder (C:\Windows\Temp).
 You can customize this section to include additional cleanup tasks.
+
 How to Run the Script as Administrator:
 Open Notepad:
 Press Win + R, type notepad, and hit Enter.
