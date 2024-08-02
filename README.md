@@ -33,7 +33,7 @@ Delete Temporary Files:
 ・Helps manage disk space.
 
 You can customize this section to include additional cleanup tasks!
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 II) How to Run the Script as Administrator:
 
 1) Open Notepad:
@@ -66,7 +66,7 @@ II) How to Run the Script as Administrator:
 The script will execute the cleanup tasks - Review the output in the command prompt window.
 
 Note: Be cautious when running scripts as an administrator. Ensure that you trust the source of the script.
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 III) If you want to use it easier from your dektop, fallow these steps:
 
 a) Right-click on the batch file and select “Create Shortcut.”
